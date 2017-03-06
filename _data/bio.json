@@ -21,7 +21,7 @@
         "url": "http://github.com/akirav"
       },
       {
-        "network": "linkedin",
+      /*  "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
@@ -34,7 +34,7 @@
         "network": "instagram",
         "username": "molly",
         "url": "http://instagram.com/changeme"
-      }
+      }*/
     ]
   },
   "interests": [
