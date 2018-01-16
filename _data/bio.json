@@ -6,10 +6,10 @@
     "email": "akirav@hawaii.edu",
     "phone": "808-233-8337",
     "website": "https://akirav.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Akira Vernon",
+        "url": "https://www.linkedin.com/in/akira-vernon-a88973139/"
       },
       {
         "network": "twitter",
@@ -37,7 +37,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -61,10 +61,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -82,7 +80,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
