@@ -79,17 +79,18 @@
       ]
     }
   ],
-  "work": [
+  "Experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Thirty Meter Telescope International Observatory",
+      "position": "Akamai Workforce Initiative Computer Engineering Intern",
+      "website": "https://akamaihawaii.org/akira-vernon/",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-03",
+      "summary": "Optimization of the Ray Tracing Algorithm for RPG (TMT AO Facility)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a ray tracing program using C that reduces the effects of atmospheric distortion by using bilinear interpolation to reconstruct distorted wavefronts for the Reconstruction Parameter Generator used by the Adaptive Optics team.",
+        "Maximized performance and efficiency by using various directives from OpenMP API.",
+        "Conducted benchmarks of the ray tracing program with the Intel Xeon Phi 7210 CPU and other CPUs."
       ]
     },
     {
