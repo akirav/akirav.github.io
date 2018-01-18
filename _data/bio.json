@@ -6,9 +6,9 @@
     "email": "akirav@hawaii.edu",
     "phone": "808-233-8337",
     "website": "https://akirav.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I am a junior in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
+      "address": "2211 Ala Wai Blvd. Apt #1407",
       "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -53,6 +53,7 @@
       "keywords": [
         "C",
         "C++",
+        "Python",
         "Javascript"
       ]
     },
@@ -61,21 +62,19 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.25",
       "courses": [
       ]
     }
