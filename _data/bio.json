@@ -114,15 +114,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Micromouse",
+      "website": "http://www-ee.eng.hawaii.edu/~tep/Projects/F17/minicomp2.html",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2017-07-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Developer for firmware & algorithms of an autonomous robot",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed a Micro-Mouse simulator in C.",
+        "Developing a modified maze-solving algorithm in C based on Flood fill algorithm."
       ]
     },
     {
