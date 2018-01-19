@@ -126,6 +126,19 @@
       ]
     },
     {
+      "organization": "Smart Campus Energy-Lab",
+      "website": "scel-hawaii.org/",
+      "position": "Software Developer",
+      "startDate": "2017-01-01",
+      "endDate": "2017-05-01",
+      "summary": "Prototyping weather sensor modules",
+      "highlights": [
+        "Designed and developed a low-cost, accurate, and reliable environmental sensor module.",
+        "Tested computer to computer and computer to Arduino with Xbee shield communication.",
+        "Designed weather box housing using Google SketchUp."
+      ]
+    },
+    {
       "organization": "2015 Education Leadership Institute",
       "website": "",
       "position": "Student Speaker",
