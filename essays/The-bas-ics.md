@@ -10,18 +10,16 @@ labels:
 
 <img class="ui small left circular floated image" src="../images/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
 
-
-
-
-
+Proper Technique and fundamentals are very important in Basketball and Software Engineering. In order to be the "Greatest of All Time" (GOAT) like the future rookie of the year pictured to the right, we must first learn the fundamentals. Before we even talk about the fundamentals, we must first know the basic rules, like what is a function? How can we avoid founling? In software engineering term, What causes run time and link time errors and how do we avoid them?
 
 <img class="ui small left circular floated image" src="../images/design-technology.jpg">
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Now that we know the rules to the game, we are then able to work on our fundamentals. When learning the fundamentals, we must focus on using proper technique. Learning the syntax of a language and proper documentation will help insure that you will not run into any errors. Learning the fundamentals can be boring at times, but it will make you and your team better no matter what age level or team you play for. Just like Lonzo "Goat" Ball, we all started our career by first learning the bas"ics."
+
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+In basketball the main objective is to get the ball into the opponent's hoop, there are many ways to do so. You can either pull a Lamelo "Goat Jr." Ball and shoot from half court or lay the ball in. This is what sparks my interest in software engineering. You can solve a problem in many different ways, but we must choose the most efficient algorithm. Here is where we rely on our knowledge of the "game."
+
 
