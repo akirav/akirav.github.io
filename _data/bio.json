@@ -126,16 +126,25 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "2015 Education Leadership Institute",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Student Speaker",
+      "startDate": "2015-07-01",
+      "endDate": "2015-07-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Spoke in front of 500-600 educators about the importance of a successful support system for students."
+      ]
+    },
+    {
+      "organization": "2015 AVID Hawaii Summer Institute",
+      "website": "http://www.avid.org/",
+      "position": "Student Speaker",
+      "startDate": "2015-07-01",
+      "endDate": "2015-07-01",
+      "summary": "",
+      "highlights": [
+        "Spoke in front of 500-600 educators about the importance of a successful support system for students."
       ]
     }
   ],
