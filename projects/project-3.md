@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/weatherbox_bottom_view.png
 title: Weatherbox
 permalink: projects/weatherbox
 date: 2017
@@ -12,7 +12,7 @@ labels:
 summary: Designed and developed a low-cost, accurate, and reliable environmental sensor module.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/weatherbox_bottom_view.png">
+<img class="ui image" src="{{ site.baseurl }}/images/weatherbox_side_view.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
