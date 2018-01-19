@@ -1,29 +1,32 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/micromouseicion.JPG
 title: Micromouse
 permalink: projects/micromouse
-date: 2015
+date: 2017
 labels:
   - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - STM32
+  - C
+summary: My team developed a robotic mouse that won first place in the Fall 2017 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/level0.JPG.png">
+  <img class="ui image" src="../images/uMouse_Angled4.PNG.jpg">
+  <img class="ui image" src="../images/Front_umouse.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Micromouse is an event where small robot “mice” solve a 16 x 16 maze. Events are held worldwide. The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high. The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided. The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center. Having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center. Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I worked on several modules in both the upper level software and low level firmware specifically: the display, adc, movements, controllers, right wall hugger, and flood fill. A large portion of this project was dedicated to research, as prior to this project I had no experience working with firmware and the STM32 processor. I was able to expand on the five step design process that was learned from EE160. First I had to understand the problem, how does micromouse work? From there I was able to do a small hand example, which allowed me to create an algorithm and translated the algorithm to C. After running through all the test cases, I have verified and tested that the simulator works. From their, I then designed and implemented a flood fill algorithm for the simulator. I have also used the design process for the adc, movements, display module, and porting over the flood fill to the mouse. 
+	
+  This project has helped me gain real-world experience, improved my time management, and allowed me to learn more about this field/industry. In the real-world we may be asked to complete a task by a specific deadline. But there may be times where you are not able to finish in time and must move on to the next task. This has happen to me, as I was not able to implement the display in time. I have learned that it is better to move onto the next task rather than wasting time. This has also improved my time management skill, as I should have probably allocated more time to the display. Overall, this project had allowed me to gain real-world experience and allowed me to learn more about this field.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+We finished with the fastest mouse who finished the maze within our college.
+
+You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~tep/Projects/F17/).
 
 
 
