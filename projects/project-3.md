@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Weatherbox
+permalink: projects/weatherbox
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C++
+  - Xbee
+  - Google Sketchup
+summary: Designed and developed a low-cost, accurate, and reliable environmental sensor module.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
