@@ -11,8 +11,12 @@ labels:
   - Google Sketchup
 summary: Designed and developed a low-cost, accurate, and reliable environmental sensor module.
 ---
-<img class="ui medium right floated rounded image" src="../images/scel_xbee.jpg">
-<img class="ui medium left floated rounded image" src="../images/weatherbox_side_view.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/scel_xbee.jpg">
+  <img class="ui image" src="../images/weatherbox_side_view.png.PNG">
+  <img class="ui image" src="../images/team_snapdragon_board.png">
+   <img class="ui image" src="../images/software_diagram.png">
+</div>
 
 <hr>
 
