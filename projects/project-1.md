@@ -13,8 +13,8 @@ summary: My team developed a robotic mouse that won first place in the Fall 2017
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/level0.JPG.png">
-  <img class="ui image" src="../images/uMouse_Angled4.PNG.jpg">
+  <img class="ui image" src="../images/level0.JPG">
+  <img class="ui image" src="../images/uMouse_Angled4.PNG">
   <img class="ui image" src="../images/Front_umouse.jpg">
 </div>
 
