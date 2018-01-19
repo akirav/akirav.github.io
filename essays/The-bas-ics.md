@@ -11,7 +11,7 @@ labels:
 <img class="ui small left circular floated image" src="../images/GOAT.jpg">
 
 
-Proper Technique and fundamentals are very important in Basketball and Software Engineering. In order to be the "Greatest of All Time" (GOAT) like the future rookie of the year pictured to the right, we must first learn the fundamentals. Before we even talk about the fundamentals, we must first know the basic rules, like what is a function? How can we avoid founling? In software engineering term, What causes run time and link time errors and how do we avoid them?
+Proper Technique and fundamentals are very important in Basketball and Software Engineering. In order to be the "Greatest of All Time" (GOAT) like the future rookie of the year pictured to the left, we must first learn the fundamentals. Before we even talk about the fundamentals, we must first know the basic rules, like what is a function? How can we avoid founling? In software engineering term, What causes run time and link time errors and how do we avoid them?
 
 <img class="ui small left circular floated image" src="../images/goatprogrammer.jpg">
 
