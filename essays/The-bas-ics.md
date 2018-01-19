@@ -15,7 +15,7 @@ Proper Technique and fundamentals are very important in Basketball and Software 
 
 <img class="ui small left circular floated image" src="../images/goatprogrammer.jpg">
 
-Now that we know the rules to the game, we are then able to work on our fundamentals. When learning the fundamentals, we must focus on using proper technique. Learning the syntax of a language and proper documentation will help insure that you will not run into any errors. Learning the fundamentals can be boring at times, but it will make you and your team better no matter what age level or team you play for. Just like Lonzo "Goat" Ball, we all started our career by first learning the bas"ics."
+Now that we know the rules to the game, we are then able to work on our fundamentals. When learning the fundamentals, we must focus on using proper technique. Learning the syntax of a language and proper documentation will help insure that you will not run into any errors. Learning the fundamentals can be boring at times, but it will make you and your team better no matter what age or team you play for. Just like Lonzo "Goat" Ball, we all started our career by first learning the bas"ics."
 
 
 <img class="ui small left circular floated image" src="../images/Lonzogoat.jpg">
