@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: The Bas(ics)
+date: 2018-01-18
 labels:
   - Software Engineering
   - Learning
