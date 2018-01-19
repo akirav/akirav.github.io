@@ -21,38 +21,17 @@ summary: Designed and developed a low-cost, accurate, and reliable environmental
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+The objective for this project was to design a self-sustainable sensor node, otherwise known as a weatherbox, which collects weather and solar irradiance data which then gets sent over to a database for analysis and storage. This system would utilize two different methods of supplying power to the ATMEGA microcontroller, XBee wireless transceiver, and various on-board sensors. During the daytime, a solar panel is used to supply power for the weatherbox and to charge the system’s battery pack. When the sun sets and there isn’t enough power being supplied from the solar panel, the system will switch power sources to the battery which is able to keep the system powered until the solar panel becomes the primary power source during periods of daylight. This constant switching of power supplies enables our system to be truly self-sustainable. The sensor node has a plethora of sensors to collect barometric, humidity, solar irradiance, and temperature data and is programmed to poll the sensors at a user-specified period. The data is then consolidated into the appropriate packet format and is sent over to the lab database via an XBee wireless transceiver.
+<pre>
+For this project, I was in charge of prototyping the weather box housing. With our custom PCB design which allowed us to replace the breakout board and Arduino, we were able to design the weather box to be compact with the following dimensions of 7” x 4” x 5”. There are two main components to our weather box which is the mount and housing itself. 
 
-pickup candle
-- you are now carrying the candle -
+Our box was designed to be opened from the bottom to make it weathertight. The bottom of the weather box can be open or closed by screwing/unscrewing four 4-40 screws that connects the weather box housing to the mount. The mount was designed to be fastened to a clamp which is then placed to the top of Holmes Hall roof.  
 
-pickup match
-- you are now carrying the match -
+Inside the weather box there are four short pillars and four long pillars hanging from the top of the weather box, three large holes, and several small holes. The four short pillars will be used to mount our PCB to the weather box with 4-40 screws. The long pillars will be used to have a foundation for the battery to lie on. There are three large holes to accommodate the power input from the solar panel, the irradiance sensor (SP-215), and the Xbee. A flexible grommet will be used with the holes to help minimize any water from going inside of the weather box. The small holes are used to help with ventilation in the weather box.
+</pre>
 
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
