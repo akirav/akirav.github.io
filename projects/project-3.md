@@ -11,12 +11,8 @@ labels:
   - Google Sketchup
 summary: Designed and developed a low-cost, accurate, and reliable environmental sensor module.
 ---
-<img class="ui medium right floated rounded image" src="../images/miensfeld.png">
-<img class="ui medium left floated rounded image" src="../images/miensfeld.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+<img class="ui medium right floated rounded image" src="../images/scel_xbee.jpg">
+<img class="ui medium left floated rounded image" src="../images/weatherbox_side_view.png">
 
 <hr>
 
