@@ -13,7 +13,7 @@ summary: Designed and developed a low-cost, accurate, and reliable environmental
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/scel_xbee.jpg">
-  <img class="ui image" src="../images/weatherbox_side_view.png">
+  <img class="ui image" src="../images/weatherbox_width_view.png">
   <img class="ui image" src="../images/team_snapdragon_board.png">
    <img class="ui image" src="../images/software_diagram.png">
 </div>
