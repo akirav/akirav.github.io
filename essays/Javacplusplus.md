@@ -11,5 +11,5 @@ The first four languages I learned were english, japanese, C, and C++. After hea
 
 From a software engineering perspective, I believe that JavaScript is a good language. Some pros to JavaScript include: storing different data types in the same array, variable and function declarations do not require the specification of the data type, and the list goes on. But I still do believe that learning the traditional languages (C,C++, and/or Java) first can help with learning the fundamentals of programming. Coming from a computer engineering perspective, I believe that Javascript is a bad language that does not allow the programmer to understand the low-level workings of a computer. Either way, all programming languages have their pros and cons.
 
-Athletic software engineering is a great pedagogy that allows students to learn JavaScript in no time. I believe that the practice WODs will help me prepare for technical interviews. WODs can be stressful in the beginning, but it will eventually become easier. 
+Athletic software engineering is a great pedagogy that allows students to learn JavaScript in no time. I believe that the practice WODs will help me prepare for technical interviews. WODs can be stressful in the beginning, but it will eventually become enjoyable. 
 
