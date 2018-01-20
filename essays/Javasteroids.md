@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: JavaScript = C++Steriods.
+date: 2018-01-19
 labels:
-  - Software Engineering
-  - Learning
+  - JavaScript
+  - C++
 ---
