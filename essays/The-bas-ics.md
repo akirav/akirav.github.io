@@ -11,11 +11,11 @@ labels:
 <img class="ui small left circular floated image" src="../images/GOAT.jpg">
 
 
-Proper Technique and fundamentals are very important in Basketball and Software Engineering. In order to be the "Greatest of All Time" (GOAT) like the future rookie of the year pictured to the left, we must first learn the fundamentals. Before we even talk about the fundamentals, we must first know the basic rules, like what is a function? How can we avoid founling? In software engineering term, What causes run time and link time errors and how do we avoid them?
+Proper Technique and fundamentals are very important in Basketball and Software Engineering. In order to be the "Greatest of All Time" (GOAT) like the future rookie of the year pictured to the left, we must first learn the fundamentals. Before we even talk about the fundamentals, we must first know the basic rules. How do we dribble? How do we score? How can we avoid fouling? In software engineering term: What is a function? What causes run time and link time errors and how do we avoid them?
 
 <img class="ui small left circular floated image" src="../images/goatprogrammer.jpg">
 
-Now that we know the rules to the game, we are then able to work on our fundamentals. When learning the fundamentals, we must focus on using proper technique. Learning the syntax of a language and proper documentation will help insure that you will not run into any errors. Learning the fundamentals can be boring at times, but it will make you and your team better no matter what age or team you play for. Just like Lonzo "Goat" Ball, we all started our career by first learning the bas"ics."
+Now that we know the rules to the game, we are then able to work on our fundamentals. When learning the fundamentals we must focus on using proper technique. Learning the syntax of a language and proper documentation will help insure that you will not run into any errors. Learning the fundamentals can be boring at times, but it will make you and your team better no matter what age or team you play for. Just like Lonzo "Goat" Ball, we all started our career by first learning the bas"ics."
 
 
 <img class="ui small left circular floated image" src="../images/Lonzogoat.jpg">
