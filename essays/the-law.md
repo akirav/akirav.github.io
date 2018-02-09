@@ -13,34 +13,18 @@ labels:
 <img class="ui small left circular floated image" src="../images/Rallen-shooting.jpg">
 
 Ray Allen:
-temp
-temp
-temp
-temp
-temp
-temp
-temp
+Ranked 1st with 2973 3-point field goals made
+40.02% 3 point field goal percentage.
 
 
 <img class="ui small right circular floated image" src="../images/Curry_shooting.jpg">
 
 Stephen Curry:
-temp
-temp
-temp
-temp
-temp
-temp
-temp
-temp
-temp
+Ranked 7th with 2086 3-point field goals made
+43.6% 3 point field goal percentage.
+
 
 <img class="ui small left circular floated image" src="../images/lonzo-shooting.jpg">
 Lonzo "🐐" Ball:
-temp
-temp
-temp
-temp
-temp
-temp
-temp
+Not Ranked with 59 3-point field goals made.
+30.3% 3 point field goal percentage.
