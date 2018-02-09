@@ -9,3 +9,7 @@ labels:
   - Javascript
   - Basketball
 ---
+
+<img class="ui small left circular floated image" src="../images/Rallen-shooting.jpg">
+<img class="ui small right circular floated image" src="../images/Curry_shooting.jpg">
+<img class="ui small left circular floated image" src="../images/lonzo-shooting.jpg">
