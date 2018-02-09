@@ -10,8 +10,10 @@ labels:
   - Basketball
 ---
 
-
+<figure>
 <img class="ui small left circular floated image" src="../images/Rallen-shooting.jpg">
+<figcaption> Ray Allen</figcaption>
+</figure>
 
 <img class="ui small right circular floated image" src="../images/Curry_shooting.jpg">
 
