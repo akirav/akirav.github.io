@@ -20,3 +20,5 @@ Throughout Ray Allen's eighteen seasons, his "wet" shooting form has allowed him
 <img class="ui small left circular floated image" src="../images/lonzo-shooting.jpg">
 
 Now let's talk about Lonzo "🐐 jr" Ball, his first couple games in the NBA were rough, the NBA is nothing like college basketball. Just like Lonzo, the first few times using ESLint with IntelliJ was painful. I had a lot of errors regarding my format. But through these errors, I was able to learn proper coding style guidlines that make my code much more readable. Even though I still struggle with errors in ESLint, I am starting to enjoy minimizing the complaints ESLint spits out.
+
+Through time, Lonzo Ball will eventually join the ranks of Ray Allen and Stephen Curry. He is still young and has a lot more to learn about. Just like Lonzo, my experience in software engineering has just begun and I still have a lot more to learn about. But I know that throught out time, I will eventually develop good software engineering habits that will allow me to become a great programmer. ICS 314 will allow me to build a great base to my future career in software engineering. 
