@@ -19,12 +19,4 @@ Throughout Ray Allen's eighteen seasons, his "wet" shooting form has allowed him
 
 <img class="ui small left circular floated image" src="../images/lonzo-shooting.jpg">
 
-Now let's talk about Lonzo "🐐 Jr." Ball, his first couple games in the NBA were rough. The NBA is nothing like college basketball.
-
-
-Lonzo "Young 🐐" Ball:
-Not Ranked with 59 3-point field goals made.
-30.3% 3 point field goal percentage.
-Played 1/2 season.
-
-After your first week of using ESLint with IntelliJ, what are your impressions? Are you finding that getting the green checkmark is painful, or useful, or both, or something else entirely?
+Now let's talk about Lonzo "🐐 jr" Ball, his first couple games in the NBA were rough, the NBA is nothing like college basketball. Just like Lonzo, the first few times using ESLint with IntelliJ was painful. I had a lot of errors regarding my format. But through these errors, I was able to learn proper coding style guidlines that make my code much more readable. Even though I still struggle with errors in ESLint, I am starting to enjoy minimizing the complaints ESLint spits out.
