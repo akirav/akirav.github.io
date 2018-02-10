@@ -14,15 +14,9 @@ labels:
 
 <img class="ui small right circular floated image" src="../images/Curry_shooting.jpg">
 
-Ray "🐐" Allen is the greatest of all time in 3-Pointers made with a whopping 2973 3-point field goals made. Through his 18 seasons Ray Allen
-40.02% 3 point field goal percentage.
-Played 18 Seasons.
+Ray "🐐" Allen and Stephen Curry are regarded as the greatest shooters of all time.
+Throughout Ray Allen's eighteen seasons, his "wet" shooting form has allowed him to make 2973 3-point field goals with a 3-point field goal percentage of 40.02%. On the other hand, Stephen Curry has amassed 2086 3-point field goals with a 3-point field goal percantage of 43.6% through eight seasons. Stephen Curry is on track to dethron Ray Allen and become THE greatest shooter of all time. You may ask, what do these two legends have in common? Their hard work, will power, and determination to perfect there shooting form. By working on the correct fundamentals and by adhering to proper style guidelines, it will help me become an overall better programmer.
 
-
-
-Stephen Curry is regarded as Ranked 7th with 2086 3-point field goals made
-43.6% 3 point field goal percentage.
-Played 8 Seasons.
 
 <img class="ui small left circular floated image" src="../images/lonzo-shooting.jpg">
 
