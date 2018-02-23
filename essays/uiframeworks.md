@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Beauty in Semantic UI
+title: Beauty of Semantic UI
 date: 2018-01-18
 labels:
   - Software Engineering
