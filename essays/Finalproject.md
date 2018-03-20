@@ -7,10 +7,10 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Collaboratively written by: Akira Vernon and Jarrin Kasuya 
+Collaboratively written by: Akira Vernon and Jarrin Kasuya
 
 The Problem:
-College Students love to drink at parties and may need to find a DD "Designated Driver" and are to broke to call an Uber. There is no simple way to ask everyone at the party who is a DD
+College Students often are broke and love to drink at parties. At these parties they may need to find a DD "Designated Driver" to get a ride for free. There is no simple way to ask everyone at the party who is a DD
 
 The Solution:
 The UHM-DD application will provide a centralized directory for UH Manoa DD and drinkers. UH Manoa students can login to browse a well organized directory of all current students at the party, with brief descriptions, and meeting times and locations.
