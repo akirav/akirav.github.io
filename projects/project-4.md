@@ -32,7 +32,7 @@ Below are some screenshots of the housing pages:
 
 <img class="ui small image" src="../images/AddHousing_GoogleAPI_M3">
 <img class="ui small image" src="../images/ViewHousing_M3">
-<img class="ui small image" src="../images/HousingList_M3">
+<img class="ui small image" src="../images/HousingList_M3 ">
 
 
 <h1>What I Learned</h1>
