@@ -52,7 +52,10 @@
         "C",
         "C++",
         "Python",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS",
+        "Semantic UI",
+        "React"
       ]
     },
     {
@@ -61,7 +64,11 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "Eclipse",
+        "Vi/Vim",
+        "Intellij Idea",
+        "Meteor"
       ]
     }
   ],
@@ -123,7 +130,7 @@
       "website": "http://www-ee.eng.hawaii.edu/~tep/Projects/F17/minicomp2.html",
       "position": "Software Developer",
       "startDate": "2017-07-01",
-      "endDate": "Present",
+      "endDate": "2017-08-01",
       "summary": "Developer for firmware & algorithms of an autonomous robot",
       "highlights": [
         "Developed a Micro-Mouse simulator in C.",
