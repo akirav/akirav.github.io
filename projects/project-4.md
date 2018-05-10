@@ -18,16 +18,22 @@ summary: A React application that allows University of Hawaii at Manoa students 
 <hr>
 
 
-<img class="ui small image" src="../images/halemanoa-transparent.png">
 
 <h1>Overview</h1>
 
-<a href="https://hale-manoa.github.io/">Hale Manoa</a>  is a tool for University of Hawaii at Manoa students to browse available and affordable housing options in the area. With Hale Manoa, users are able to directly compare prices and find housing adequate for their needs. Furthermore, local individuals and businesses are able to advertise their housing options while gaining community recognition through reviews given by other users.
+<a href="https://hale-manoa.github.io/">Hale Manoa</a>  is a tool for University of Hawaii at Manoa students to browse available and affordable housing options in the area.Through this web application, users are able to directly compare prices and find housing adequate for their needs. Furthermore, local individuals and businesses are able to advertise their housing options while gaining community recognition through reviews given by other users.
 
-Hale Manoa allows students to find a roommate with similar interests. Students will create their own personal profile with important information such as hobbies, habits, cleanliness, pets, etc. Students can get notified when they have a match. Some key features include: creating personalized profiles, discovering housing options based on specific characteristics, advertising housing options, and adding reviews / community feedback.
-
+Hale Manoa allows students to find a roommate with similar interests. Students will create their own personal profile with important information such as hobbies, habits, cleanliness, pets, etc. Students can then connect with others and find housing. Some key features include: creating personalized profiles, discovering housing options based on specific characteristics, advertising housing options, and adding reviews / community feedback.
 
 <h1>My Contributions</h1>
+
+I was responsible for both front and back end development of the housing pages which include: add housing, edit housing, and list housing. Geocoding from the google maps api was used to gather the coordinates from the address inputted from the user. From there we were able to pinpoint and display the exact location of the house in the housing detail page.
+Below are some screenshots of the housing pages:
+
+<img class="ui small image" src="../images/AddHousing_GoogleAPI_M3">
+<img class="ui small image" src="../images/ViewHousing_M3">
+<img class="ui small image" src="../images/HousingList_M3">
+
 
 <h1>What I Learned</h1>
 
