@@ -27,8 +27,11 @@ I was responsible for both front and back end development of the housing pages w
 Below are some screenshots of the housing pages:
 
 <div class="ui large images">
+Users will be able to add/edit a listing:
 <img class="ui image" src="../images/AddHousing_GoogleAPI_M3.png">
+Users are able to view more information of a selected listing:
 <img class="ui image" src="../images/ViewHousing_M3.png">
+The housing page displays all available listings:
 <img class="ui image" src="../images/HousingList_M3.png">
 </div>
 
