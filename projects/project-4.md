@@ -26,14 +26,14 @@ Hale Manoa allows students to find a roommate with similar interests. Students w
 I was responsible for both front and back end development of the housing pages which include: add housing, edit housing, and list housing. Geocoding from the google maps api was used to gather the coordinates from the address inputted from the user. From there we were able to pinpoint and display the exact location of the house in the housing detail page.
 Below are some screenshots of the housing pages:
 
-<div class="ui large images">
+
 Users will be able to add/edit a listing:
-<img class="ui image" src="../images/AddHousing_GoogleAPI_M3.png">
+<img class="ui large image" src="../images/AddHousing_GoogleAPI_M3.png">
 Users are able to view more information of a selected listing:
-<img class="ui image" src="../images/ViewHousing_M3.png">
+<img class="ui large image" src="../images/ViewHousing_M3.png">
 The housing page displays all available listings:
-<img class="ui image" src="../images/HousingList_M3.png">
-</div>
+<img class="ui large image" src="../images/HousingList_M3.png">
+
 
 <h1>What I Learned</h1>
 
