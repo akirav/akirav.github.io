@@ -18,7 +18,7 @@ summary: A React application that allows University of Hawaii at Manoa students 
 <hr>
 
 
-<img class="ui image" src="../images/halemanoa-transparent.png">
+<img class="ui small image" src="../images/halemanoa-transparent.png">
 
 <h1>Overview</h1>
 
