@@ -29,15 +29,15 @@ Below are some screenshots of the housing pages:
 
 Users will be able to add/edit a listing:
 <br>
-<img class="ui large image" src="../images/AddHousing_GoogleAPI_M3.png">
+<img class="ui centered large image" src="../images/AddHousing_GoogleAPI_M3.png">
 <br>
 Users are able to view more information of a selected listing:
 <br>
-<img class="ui large image" src="../images/ViewHousing_M3.png">
+<img class="ui centered large image" src="../images/ViewHousing_M3.png">
 <br>
 The housing page displays all available listings:
 <br>
-<img class="ui large image" src="../images/HousingList_M3.png">
+<img class="ui centered large image" src="../images/HousingList_M3.png">
 
 
 <h1>What I Learned</h1>
